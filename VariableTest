@@ -1,0 +1,26 @@
+public class VariableTest{
+
+         static int a;
+         static int b=2;
+         static char c;
+         static char d='a';
+         static int e=2147483647;
+         static long f=2147483648L;
+         static boolean g=true;
+         static boolean k=false;
+         
+
+      public static vodi main(String[] args){
+      
+                System.out.println(a);
+                System.out.println(b);
+                System.out.println(c);
+                System.out.println(d);
+                System.out.println(e);
+                System.out.println(f);
+                System.out.println(g);
+                System.out.println(k);
+      }
+
+
+}
